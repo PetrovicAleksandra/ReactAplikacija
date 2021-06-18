@@ -1,0 +1,12 @@
+.row li {
+    width: 33.3%;
+    float: left;
+  }
+  
+  img {
+    border: 0 none;
+    display: inline-block;
+    height: 250px;
+    max-width: 100%;
+    vertical-align: middle;
+  }
