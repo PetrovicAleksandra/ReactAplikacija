@@ -1,12 +1,12 @@
 export const MenuItems=[
     {
     title: 'Pocetna',
-    url: '#',
+    url: '/pocetna',
     cName: 'nav-links'
     },
     {
     title: 'Kontakt',
-    url: '#',
+    url: '/kontakt',
     cName: 'nav-links'
     }
 ]
